@@ -18,7 +18,7 @@ export default async function Page() {
         {/* <Card title="Pending" value={totalPendingInvoices} type="pending" /> */}
         {/* <Card title="Total Invoices" value={numberOfInvoices} type="invoices" /> */}
         {/* <Card
-          title="Total Customers"
+          title="Total Custonpmers"
           value={numberOfCustomers}
           type="customers"
         /> */}
